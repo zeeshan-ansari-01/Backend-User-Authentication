@@ -62,11 +62,11 @@ Replace the placeholder values with your actual configuration.
 
 ### 1. Clone the repository
 
-git clone <your-repository-url>
+git clone https://github.com/zeeshan-ansari-01/Backend-User-Authentication.git
 
 ### 2. Navigate to the project directory
 
-cd <project-folder>
+cd Backend-User-Authentication
 
 ### 3. Install dependencies
 
